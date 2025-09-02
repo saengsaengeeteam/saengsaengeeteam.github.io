@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 --><img width="1825" height="674" alt="생생페이지" src="https://github.com/user-attachments/assets/87fb0e55-6836-46a8-8730-0ecb67272dcd" />
 
 <img width="3600" height="1200" alt="생생페이지 잔디" src="https://github.com/user-attachments/assets/9826f971-4b38-440a-a2d1-72801421418b" />
-<img width="3600" height="1200" alt="생생이팀 소개" src="https://github.com/user-attachments/assets/b0fb2c9d-db73-4953-8fcb-a376c618f791" />
+<img width="1999" height="822" alt="생생이팀 소개" src="https://github.com/user-attachments/assets/2419daee-d263-499b-b927-111e2216dc3d" />
+
 <img width="581" height="459" alt="돌아가기" src="https://github.com/user-attachments/assets/8851671e-a961-4ecf-863e-af46474320cc" />
