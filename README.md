@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><img width="3600" height="1200" alt="생생페이지" src="https://github.com/user-attachments/assets/d90cd31f-17b4-45c0-941b-461e901f1bc7" />
 
+<img width="3600" height="1200" alt="생생페이지 잔디" src="https://github.com/user-attachments/assets/9826f971-4b38-440a-a2d1-72801421418b" />
