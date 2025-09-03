@@ -21,4 +21,15 @@ Here are some ideas to get you started:
 <img width="581" height="459" alt="돌아가기" src="https://github.com/user-attachments/assets/8851671e-a961-4ecf-863e-af46474320cc" />
 <img width="1533" height="690" alt="앨범" src="https://github.com/user-attachments/assets/0a00eafd-4ce8-4e75-8454-25deaf9bc71d" />
 <img width="497" height="393" alt="716" src="https://github.com/user-attachments/assets/677cf0e6-4900-47c7-b8dd-3182a898c5e0" />
+
+
+
+
+
+
+
+
+
+
 <img width="1081" height="207" alt="이미지 보기" src="https://github.com/user-attachments/assets/3921bdc9-6a12-4f76-a3c9-5a96e03bafff" />
+<img width="1501" height="207" alt="자료 다운로드" src="https://github.com/user-attachments/assets/6236e29d-0cdf-4a89-b375-4c2d4fe113c5" />
