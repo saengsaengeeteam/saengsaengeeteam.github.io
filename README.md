@@ -45,3 +45,11 @@ Here are some ideas to get you started:
 <img width="3600" height="419" alt="편지" src="https://github.com/user-attachments/assets/c6b198be-6128-4274-ac83-3257f3ddba98" />
 <img width="700" height="198" alt="확인" src="https://github.com/user-attachments/assets/66c557ea-4a38-496d-a235-29623d8a3263" />
 <img width="3404" height="390" alt="활동 영상 보기" src="https://github.com/user-attachments/assets/58224c26-349a-417c-95ce-68fd000e3302" />
+<img width="1080" height="1441" alt="yunni 1" src="https://github.com/user-attachments/assets/27e8e702-b573-4284-9dc4-78e8210a11d3" />
+<img width="1080" height="1441" alt="yunni 2" src="https://github.com/user-attachments/assets/e279124c-466b-486d-8a8a-fa80abf1677c" />
+<img width="1080" height="1441" alt="yunni 3" src="https://github.com/user-attachments/assets/89b67a68-e3ea-47ad-aa99-941a4e189349" />
+<img width="1080" height="1441" alt="yangyang 1" src="https://github.com/user-attachments/assets/d6077b8b-dfa0-440a-a774-1ea809699bfa" />
+<img width="1080" height="1441" alt="yangyang 2" src="https://github.com/user-attachments/assets/0e1e3703-e786-42be-94c5-cf6cb12c1692" />
+<img width="1080" height="1441" alt="yangyang 3" src="https://github.com/user-attachments/assets/e556c8d3-2df8-4687-95a6-d141015f7907" />
+<img width="1080" height="1441" alt="juju 1" src="https://github.com/user-attachments/assets/4fa9573a-015b-4949-b53b-e63983bebc71" />
+<img width="1080" height="1441" alt="hunni 1" src="https://github.com/user-attachments/assets/367e52e6-4d3d-4005-b277-c5375f1d3709" />
