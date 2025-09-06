@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img width="1081" height="207" alt="이미지 보기" src="https://github.com/user-attachments/assets/3921bdc9-6a12-4f76-a3c9-5a96e03bafff" />
 <img width="1501" height="207" alt="자료 다운로드" src="https://github.com/user-attachments/assets/6236e29d-0cdf-4a89-b375-4c2d4fe113c5" />
 <img width="1851" height="253" alt="2025년 WFK 생생이팀" src="https://github.com/user-attachments/assets/bc70ced1-4798-4dd7-86bc-1634796f7444" />
-<img width="804" height="296" alt="비밀번호" src="https://github.com/user-attachments/assets/9d903d6d-5d12-41c1-b090-2a6bad816a75" />
+<img width="842" height="327" alt="비밀번호" src="https://github.com/user-attachments/assets/5d0bdb95-d79d-4a17-8dcc-a68922160e77" />
 <img width="3411" height="421" alt="생생이팀 소개" src="https://github.com/user-attachments/assets/e0036dc8-f992-4dc6-83e9-c7763f9b76d5" />
 <img width="994" height="342" alt="시크릿" src="https://github.com/user-attachments/assets/b00eed49-5b9d-4d20-a14b-8367606e8fda" />
 <img width="2621" height="375" alt="오늘의 생생" src="https://github.com/user-attachments/assets/92722d67-7ccd-46a2-b389-d4b896a9382f" />
