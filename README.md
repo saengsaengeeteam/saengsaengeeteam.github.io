@@ -57,9 +57,19 @@ Here are some ideas to get you started:
 <img width="1763" height="231" alt="I'll Be Missing You Reels" src="https://github.com/user-attachments/assets/87a1704d-71a8-4a3c-9ae8-020616069cef" />
 <img width="2830" height="244" alt="The Best Of My Life" src="https://github.com/user-attachments/assets/82e1fde0-6d98-4d5f-a23e-b99a2a60d6d5" />
 <img width="3476" height="301" alt="벚꽃엔딩 가사뮤비" src="https://github.com/user-attachments/assets/9e2e8512-ddf2-4b7e-95e3-613afee3fa66" />
-
-
-
-
-
+<img width="2121" height="473" alt="7월 16일" src="https://github.com/user-attachments/assets/815c3cab-bc92-41f8-8a3d-fab7752dd004" />
+<img width="2121" height="473" alt="7월 17일" src="https://github.com/user-attachments/assets/cf9ebcc1-dfe8-493a-bbdb-eb17c76d339c" />
+<img width="2121" height="473" alt="7월 18일" src="https://github.com/user-attachments/assets/e89a2dea-3dc1-4f13-b966-aaca0e53a3cc" />
+<img width="2121" height="473" alt="7월 21일" src="https://github.com/user-attachments/assets/23b457bf-fd13-4693-9bde-190a2e8bbbc8" />
+<img width="2121" height="473" alt="7월 22일" src="https://github.com/user-attachments/assets/83d69914-8212-4a27-8493-f533f8f601fe" />
+<img width="2121" height="473" alt="7월 23일" src="https://github.com/user-attachments/assets/e69aadbe-a3e6-410c-977f-c3dbece86356" />
+<img width="2121" height="473" alt="7월 24일" src="https://github.com/user-attachments/assets/65b14221-bb15-4287-8286-f8fa914c292b" />
+<img width="2121" height="473" alt="7월 25일" src="https://github.com/user-attachments/assets/0d9cd829-c4a3-47da-b6e4-3ec987274d05" />
+<img width="2121" height="473" alt="7월 28일" src="https://github.com/user-attachments/assets/44608c31-a0d5-4f44-8d51-29679a79e4aa" />
+<img width="2121" height="473" alt="7월 29일" src="https://github.com/user-attachments/assets/fc0d1af7-a422-4f88-9f90-aabbf3b8b1d8" />
+<img width="2121" height="473" alt="7월 30일" src="https://github.com/user-attachments/assets/9ad47e5e-d4ed-46c7-9718-54636c515764" />
+<img width="2121" height="473" alt="7월 31일" src="https://github.com/user-attachments/assets/e6152cec-00d8-4fd8-a50c-671d5f297547" />
+<img width="2302" height="473" alt="8월 1일" src="https://github.com/user-attachments/assets/d0cbd709-bbba-455f-840f-7b1394bab83d" />
+<img width="2302" height="473" alt="8월 4일" src="https://github.com/user-attachments/assets/058f120a-9e6e-44c4-ab1f-745931ab7ce1" />
+<img width="2302" height="473" alt="8월 5일" src="https://github.com/user-attachments/assets/2eb8a109-12fb-43a4-af62-fd18ee9c2b42" />
 
