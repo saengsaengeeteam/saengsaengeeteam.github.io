@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 <img width="2121" height="473" alt="7월 25일" src="https://github.com/user-attachments/assets/0d9cd829-c4a3-47da-b6e4-3ec987274d05" />
 <img width="2121" height="473" alt="7월 28일" src="https://github.com/user-attachments/assets/44608c31-a0d5-4f44-8d51-29679a79e4aa" />
 <img width="2121" height="473" alt="7월 29일" src="https://github.com/user-attachments/assets/fc0d1af7-a422-4f88-9f90-aabbf3b8b1d8" />
+
+
 <img width="2121" height="473" alt="7월 30일" src="https://github.com/user-attachments/assets/9ad47e5e-d4ed-46c7-9718-54636c515764" />
 <img width="2121" height="473" alt="7월 31일" src="https://github.com/user-attachments/assets/e6152cec-00d8-4fd8-a50c-671d5f297547" />
 <img width="2302" height="473" alt="8월 1일" src="https://github.com/user-attachments/assets/d0cbd709-bbba-455f-840f-7b1394bab83d" />
