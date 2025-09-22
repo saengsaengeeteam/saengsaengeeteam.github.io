@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <img width="1080" height="1920" alt="716-4" src="https://github.com/user-attachments/assets/ccbd86ee-2b56-46fa-a29b-1df663b7fb47" />
 <img width="1080" height="1920" alt="716-5" src="https://github.com/user-attachments/assets/762c5794-8699-456a-bc2e-d3d05858a017" />
 <img width="1080" height="1920" alt="716-6" src="https://github.com/user-attachments/assets/198cdb34-1e5b-4e2e-9926-2986d63fdf5e" />
-<img width="1080" height="auto" alt="717-1" src="https://github.com/user-attachments/assets/c3158203-8303-4b03-b26d-9f51964c1e7a" />
+<img width="1080" height="1834" alt="717-1" src="https://github.com/user-attachments/assets/9cedf116-c698-4e8e-8ad3-c151f301b4d7" />
 <img width="1080" height="1920" alt="717-2" src="https://github.com/user-attachments/assets/fcfae6f8-cb0c-493f-be8a-57840dd6bd35" />
 <img width="1080" height="1920" alt="717-3" src="https://github.com/user-attachments/assets/c6f28191-7ff3-492a-919c-b60943451595" />
 <img width="1080" height="1920" alt="717-4" src="https://github.com/user-attachments/assets/3fca0eb1-6ce8-4da4-b32c-3d56529b5d90" />
