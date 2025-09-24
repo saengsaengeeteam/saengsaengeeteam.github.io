@@ -138,3 +138,4 @@ Here are some ideas to get you started:
 <img width="1080" height="1920" alt="801" src= "https://github.com/user-attachments/assets/c61459f1-3184-4764-b3c7-e133e22f2cc9" />
 <img width="1080" height="1920" alt="804" src= "https://github.com/user-attachments/assets/850f0eb1-0a23-40d1-bdb0-38a11f913a79" />
 <img width="1080" height="1920" alt="805" src= "https://github.com/user-attachments/assets/79fc124d-615d-40d8-861b-f617cfc88f01" />
+<img width="1920" height="1080" alt="팀 소개" src="https://github.com/user-attachments/assets/c57475dc-5295-4d3a-b67b-80a374433a2d" />
