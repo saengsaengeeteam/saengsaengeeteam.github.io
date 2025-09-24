@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 <img width="1080" height="1920" alt="805-1" src="https://github.com/user-attachments/assets/bb80059f-52b8-41ab-9f26-baccad866a10" />
 <img width="1080" height="1920" alt="805-2" src="https://github.com/user-attachments/assets/b4990f34-136f-4a39-b922-00f3b09b26f3" />
 <img width="1080" height="1920" alt="805-3" src="https://github.com/user-attachments/assets/039ae2b1-46c3-47ce-963f-7f18877409c6" />
-![716](https://github.com/user-attachments/assets/a92f13f3-acf7-460d-895e-c45dc7cb24f0)
+<img width="1080" height="1920" alt="716" src= "https://github.com/user-attachments/assets/a92f13f3-acf7-460d-895e-c45dc7cb24f0" />
 ![717](https://github.com/user-attachments/assets/26288e0b-0731-4578-8288-f9ab16a5084a)
 ![718](https://github.com/user-attachments/assets/d0e530d0-eee5-4a59-83c4-5fcd9edea47e)
 ![721](https://github.com/user-attachments/assets/a8ba587d-def6-4e05-b9c4-657f3c488422)
