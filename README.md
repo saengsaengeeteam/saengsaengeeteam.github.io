@@ -139,6 +139,7 @@ Here are some ideas to get you started:
 <img width="1080" height="1920" alt="804" src= "https://github.com/user-attachments/assets/850f0eb1-0a23-40d1-bdb0-38a11f913a79" />
 <img width="1080" height="1920" alt="805" src= "https://github.com/user-attachments/assets/79fc124d-615d-40d8-861b-f617cfc88f01" />
 <img width="1920" height="1080" alt="팀 소개" src="https://github.com/user-attachments/assets/c57475dc-5295-4d3a-b67b-80a374433a2d" />
+<img width="1920" height="1080" alt="생생이팀 김연주" src="https://github.com/user-attachments/assets/ca67fad0-c791-4ecb-a2f8-f610b5abaef1" />
 <img width="1920" height="1080" alt="자기소개 김동훈" src="https://github.com/user-attachments/assets/692ba369-fe62-4e20-8d16-5eb197fb8312" />
 <img width="1920" height="1080" alt="자기소개 라윤지" src="https://github.com/user-attachments/assets/2fd22a49-461f-4c5f-a1c1-88c21ff9bd62" />
 <img width="1920" height="1080" alt="자기소개 양민서" src="https://github.com/user-attachments/assets/f71c3b9c-0fcd-444b-b18d-8ab885b906f9" />
